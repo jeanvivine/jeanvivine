@@ -1,24 +1,29 @@
 # Jacque Houzi
 
 
-Description
+Description:
+
+A compléter 
 
 
 ---
 
 
+Recherche google avec nom et prénom:
+
+https://fr.linkedin.com/in/jacque-houzit-915860208?trk=profile-badge-cta
 
 ![linkedin](https://github.com/jeanvivine/jeanvivine/blob/master/linkedin.JPG)
 
 
-
-
-
-https://fr.linkedin.com/in/jacque-houzit-915860208?trk=profile-badge-cta
+Sur son profil on trouve un lien vers son GITHUB:
 
 https://github.com/J4cquesH0uz1t
 
+
 https://github.com/J4cquesH0uz1t/Learning/tree/main/Hacking/Preparation
+
+
 
 https://pastebin.com/u/J4CQU3SHOUZ1T
 
