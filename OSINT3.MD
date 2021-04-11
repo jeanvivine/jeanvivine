@@ -1,7 +1,12 @@
 Drugs location
 
 On fouille un peu son twitter:
+
+
+
 ![friends](https://github.com/jeanvivine/jeanvivine/blob/master/friends.JPG)
+
+
 
 Hmm le nom me rappelle quelque chose:
 
