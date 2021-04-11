@@ -1,11 +1,11 @@
 Drugs location
 
 On fouille un peu son twitter:
-![friends](https://github.com/jeanvivine/jeanvivine/blob/master/friends.jpg)
+![friends](https://github.com/jeanvivine/jeanvivine/blob/master/friends.JPG)
 
 Hmm le nom me rappelle quelque chose:
 
-![adressemail](https://github.com/jeanvivine/jeanvivine/blob/master/adressemail.jpg)
+![adressemail](https://github.com/jeanvivine/jeanvivine/blob/master/adressemail.JPG)
 
 
 
