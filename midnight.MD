@@ -24,12 +24,20 @@ https://github.com/J4cquesH0uz1t
 https://github.com/J4cquesH0uz1t/Learning/tree/main/Hacking/Preparation
 
 
+![github](https://github.com/jeanvivine/jeanvivine/blob/master/github.JPG)
 
+PASTEBIN protéger par MDP:
 https://pastebin.com/u/J4CQU3SHOUZ1T
+
+Hint avec go back to the past:
 
 https://web.archive.org/web/20210206182132/https://pastebin.com/u/J4CQU3SHOUZ1T
 
+
 https://web.archive.org/web/20210206182440/https://pastebin.com/bgLqSeMf
+
+
+FLAG!
 
 Rendez-vous demain 14h à Rennes place de la République (n'oublie pas ton Pineapple).
 
