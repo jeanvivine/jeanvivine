@@ -37,12 +37,17 @@ https://web.archive.org/web/20210206182132/https://pastebin.com/u/J4CQU3SHOUZ1T
 
 https://web.archive.org/web/20210206182440/https://pastebin.com/bgLqSeMf
 
+```
+pastebin password : vKZLd3PbLG
+```
+
+Plus qu'a retourner sur le pastebin initial avec MDP.
 
 FLAG!
 
 Rendez-vous demain 14h à Rennes place de la République (n'oublie pas ton Pineapple).
 
 ```
-MCTF{4lw4S_l00k_4t_Th3_P4sT}```
+MCTF{4lw4S_l00k_4t_Th3_P4sT}
 
 
